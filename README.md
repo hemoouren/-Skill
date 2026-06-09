@@ -1,4 +1,4 @@
-# Fun Fun Pigeon
+# 小紫鸽自媒体插图Skill
 
 ![欢迎](examples/欢迎.png)
 
