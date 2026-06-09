@@ -14,7 +14,7 @@ Fun Fun Pigeon 是一个 Codex Skill，用来指导 AI Agent 为「小紫鸽」I
 
 它不是通用绘画 prompt，也不是复杂的海报排版模板。它的核心目标是：先理解用户输入的一句话情绪或生活场景，再自动匹配小紫鸽的表情、道具、[...]
 
-默认视觉 IP 是 Fun Fun Pigeon 小紫鸽：一个圆滚滚的薰衣草紫水滴形角色，戴蓝色毛绒耳机，有黄色小三角嘴、黑色小圆点眼睛、短小翅膀和软糯的手[...]
+默认视觉 IP 是 Fun Fun Pigeon 小紫鸽：一个圆滚滚的薰衣草紫水滴形角色，戴蓝色毛绒耳机，有黄色小三角嘴、黑色小圆点眼睛、短小翅膀和软糯的手[.[...]
 
 一句话：**上传 IP + 输入主题，AI 自动帮你生成统一风格的治愈漫画海报提示词。**
 
@@ -24,7 +24,7 @@ Fun Fun Pigeon 是一个 Codex Skill，用来指导 AI Agent 为「小紫鸽」I
 
 特别适合：
 
-- 刚开始做小红书内容，不知道怎么写���图提示词的人
+- 刚开始做小红书内容，不知道怎么写生图提示词的人
 - 想稳定运营一个治愈系 IP 角色的人
 - 需要批量生产情绪陪伴、成长感悟、日常治愈内容的人
 - 想让 AI 生成图片时尽量保持角色外形一致的人
@@ -240,6 +240,8 @@ SKILL.md
 
 - GitHub: [hemoouren](https://github.com/hemoouren)
 - Repository: [hemoouren/-Skill](https://github.com/hemoouren/-Skill)
+
+![联系作者](examples/QRcord.png)
 
 ---
 
